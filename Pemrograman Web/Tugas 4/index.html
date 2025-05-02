@@ -1,0 +1,25 @@
+<!-- Said Al-Ghiyats 230170162 -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="script.js"></script>
+    <title>Tugas 4</title>
+  </head>
+  <body>
+    <label for="jariJari">Masukkan jari-jari lingkaran:</label>
+    <input type="number" id="jariJari" />
+    <button onclick="hitungLuas()">Hitung Luas</button>
+    <p id="hasil"></p>
+  </body>
+  <script>
+    function hitungLuas() {
+      const jariJari = document.getElementById("jariJari").value;
+      const luas = Math.PI * Math.pow(jariJari, 2);
+      document.getElementById(
+        "hasil"
+      ).textContent = `Luas lingkaran adalah: ${luas.toFixed(2)}`;
+    }
+  </script>
+</html>
