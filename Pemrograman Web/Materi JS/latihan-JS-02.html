@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Latihan JavaScript</title>
+  </head>
+  <body>
+    <h2>JS Statements</h2>
+    <p id="js-statements"></p>
+
+    <h2>JS Syntax (5 + 10)</h2>
+    <p id="js-syntax"></p>
+
+    <h2>JS Comments</h2>
+    <p id="js-comments"></p>
+
+    <h2>JavaScript Dates</h2>
+    <p id="js-dates"></p>
+
+    <h2>JavaScript Math.random()</h2>
+    <p id="js-random"></p>
+
+    <h2>
+      JavaScript Random (1-10) With Click
+      <button
+        onclick="document.getElementById('js-randomrange').innerHTML = getRndInteger(1,10)"
+      >
+        Klik
+      </button>
+    </h2>
+    <p id="js-randomrange"></p>
+
+    <script>
+      document.getElementById("js-statements").innerHTML = "Hello, world!";
+
+      let x = 5;
+      let y = 10;
+      let z = x + y;
+      document.getElementById("js-syntax").innerHTML =
+        "The value of z is: " + z;
+
+      // JS Comments
+      // This is a single-line comment
+      /* This is
+    a multi-line comment */
+
+      const d = new Date();
+      document.getElementById("js-dates").innerHTML = d;
+
+      document.getElementById("js-random").innerHTML = Math.random();
+
+      function getRndInteger(min, max) {
+        return Math.floor(Math.random() * (max - min + 1) + min);
+      }
+    </script>
+  </body>
+</html>
