@@ -1,0 +1,286 @@
+# depslib dependency file v1.0
+1752073435 source:e:\grafika komputer\uasgrafikagame\main.cpp
+	<GL/glut.h>
+	"Game.h"
+
+1744604645 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1744604645 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1752079574 e:\grafika komputer\uasgrafikagame\game.h
+	"GameObject.h"
+	<vector>
+
+1752071961 e:\grafika komputer\uasgrafikagame\gameobject.h
+	"Constants.h"
+	<vector>
+
+1752080240 e:\grafika komputer\uasgrafikagame\constants.h
+
+1752076015 source:e:\grafika komputer\uasgrafikagame\game.cpp
+	"Game.h"
+	<GL/glut.h>
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+
+1752194389 source:e:\grafika komputer\blockbreaker\game.cpp
+	"miniaudio.h"
+	"Game.h"
+	<GL/glut.h>
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+
+1752195597 e:\grafika komputer\blockbreaker\game.h
+	"GameObject.h"
+	<vector>
+
+1752071961 e:\grafika komputer\blockbreaker\gameobject.h
+	"Constants.h"
+	<vector>
+
+1752195586 e:\grafika komputer\blockbreaker\constants.h
+
+1752195621 source:e:\grafika komputer\blockbreaker\main.cpp
+	<GL/glut.h>
+	"Game.h"
+	"Constants.h"
+
+1517277846 e:\grafika komputer\blockbreaker\include\irrklang.h
+	"ik_irrKlangTypes.h"
+	"ik_vec3d.h"
+	"ik_IRefCounted.h"
+	"ik_IVirtualRefCounted.h"
+	"ik_ESoundOutputDrivers.h"
+	"ik_ESoundEngineOptions.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+	"ik_ISoundEngine.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_IAudioStream.h"
+	"ik_IAudioStreamLoader.h"
+	"ik_ISoundEffectControl.h"
+	"ik_ISoundStopEventReceiver.h"
+	"ik_IFileFactory.h"
+	"ik_IFileReader.h"
+	"ik_ISoundDeviceList.h"
+	"ik_IAudioRecorder.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1517198408 e:\grafika komputer\blockbreaker\include\ik_irrklangtypes.h
+	<wchar.h>
+
+1517198408 e:\grafika komputer\blockbreaker\include\ik_vec3d.h
+	<math.h>
+	"ik_irrKlangTypes.h"
+
+1517198408 e:\grafika komputer\blockbreaker\include\ik_irefcounted.h
+	"ik_irrKlangTypes.h"
+
+1517198408 e:\grafika komputer\blockbreaker\include\ik_ivirtualrefcounted.h
+	"ik_irrKlangTypes.h"
+
+1517198408 e:\grafika komputer\blockbreaker\include\ik_esoundoutputdrivers.h
+
+1517198408 e:\grafika komputer\blockbreaker\include\ik_esoundengineoptions.h
+
+1517198408 e:\grafika komputer\blockbreaker\include\ik_estreammodes.h
+
+1517198408 e:\grafika komputer\blockbreaker\include\ik_saudiostreamformat.h
+	"ik_IRefCounted.h"
+
+1517198408 e:\grafika komputer\blockbreaker\include\ik_isoundengine.h
+	"ik_IRefCounted.h"
+	"ik_vec3d.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_EStreamModes.h"
+	"ik_IFileFactory.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1517198432 e:\grafika komputer\blockbreaker\include\ik_isoundsource.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+
+1517198408 e:\grafika komputer\blockbreaker\include\ik_isound.h
+	"ik_IVirtualRefCounted.h"
+	"ik_ISoundEffectControl.h"
+	"ik_vec3d.h"
+
+1517198408 e:\grafika komputer\blockbreaker\include\ik_isoundeffectcontrol.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+
+1517198408 e:\grafika komputer\blockbreaker\include\ik_ifilefactory.h
+	"ik_IRefCounted.h"
+
+1517198408 e:\grafika komputer\blockbreaker\include\ik_isoundmixedoutputreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1517198408 e:\grafika komputer\blockbreaker\include\ik_iaudiostream.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1517198408 e:\grafika komputer\blockbreaker\include\ik_iaudiostreamloader.h
+	"ik_IRefCounted.h"
+	"ik_IFileReader.h"
+
+1517198408 e:\grafika komputer\blockbreaker\include\ik_ifilereader.h
+	"ik_IRefCounted.h"
+
+1517198408 e:\grafika komputer\blockbreaker\include\ik_isoundstopeventreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1517198408 e:\grafika komputer\blockbreaker\include\ik_isounddevicelist.h
+	"ik_IRefCounted.h"
+
+1517198424 e:\grafika komputer\blockbreaker\include\ik_iaudiorecorder.h
+	"ik_IRefCounted.h"
+	"ik_ISoundSource.h"
+
+1752192289 e:\grafika komputer\blockbreaker\miniaudio.h
+	"miniaudio.h"
+	"miniaudio.c"
+	<stddef.h>
+	<stdint.h>
+	<pthread.h>
+	<stdalign.h>
+	<stdarg.h>
+	<assert.h>
+	<limits.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<stdio.h>
+	<strings.h>
+	<wchar.h>
+	<float.h>
+	<windows.h>
+	<sched.h>
+	<sys/time.h>
+	<pthread.h>
+	<time.h>
+	<sys/stat.h>
+	<emscripten/emscripten.h>
+	<stdint.h>
+	<immintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<sys/system_properties.h>
+	<errno.h>
+	<android/log.h>
+	<intrin.h>
+	<dlfcn.h>
+	<AvailabilityMacros.h>
+	<mach/mach_time.h>
+	<sys/types.h>
+	<unistd.h>
+	<dlfcn.h>
+	<audioclient.h>
+	<mmdeviceapi.h>
+	<poll.h>
+	<sys/eventfd.h>
+	<alsa/asoundlib.h>
+	<errno.h>
+	<pulse/pulseaudio.h>
+	<jack/jack.h>
+	<TargetConditionals.h>
+	<CoreAudio/CoreAudio.h>
+	<AVFoundation/AVFoundation.h>
+	<AudioToolbox/AudioToolbox.h>
+	<fcntl.h>
+	<sys/audioio.h>
+	<sys/soundcard.h>
+	<fcntl.h>
+	<poll.h>
+	<errno.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/ioctl.h>
+	<sys/audioio.h>
+	<sys/param.h>
+	<sys/param.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/soundcard.h>
+	<AAudio/AAudio.h>
+	<SLES/OpenSLES.h>
+	<SLES/OpenSLES_Android.h>
+	<emscripten/emscripten.h>
+	<emscripten/webaudio.h>
+	<stddef.h>
+	<stddef.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<wchar.h>
+	<assert.h>
+	<endian.h>
+	<stdlib.h>
+	<string.h>
+	<smmintrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<intrin.h>
+	<assert.h>
+	<intrinsics.h>
+	<intrin.h>
+	<stdio.h>
+	<wchar.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<intrin.h>
+	<emmintrin.h>
+	<arm_neon.h>
+	<assert.h>
+	<stdio.h>
+	<wchar.h>
+
+1752195648 source:e:\grafika komputer\endlessblockbreaker\game.cpp
+	"Game.h"
+	"Constants.h"
+	<GL/glut.h>
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+
+1752195597 e:\grafika komputer\endlessblockbreaker\game.h
+	"GameObject.h"
+	<vector>
+
+1752071961 e:\grafika komputer\endlessblockbreaker\gameobject.h
+	"Constants.h"
+	<vector>
+
+1752195586 e:\grafika komputer\endlessblockbreaker\constants.h
+
+1752195621 source:e:\grafika komputer\endlessblockbreaker\main.cpp
+	<GL/glut.h>
+	"Game.h"
+	"Constants.h"
+

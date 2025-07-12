@@ -27,4 +27,3 @@ $mahasiswa = [
 </body>
 
 </html>
-<html>

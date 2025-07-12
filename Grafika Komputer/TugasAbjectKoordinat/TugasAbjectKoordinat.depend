@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1745780307 source:e:\grafika komputer\tugasabjectkoordinat\main.cpp
+	<GL/glut.h>
+	<cmath>
+	<string>
+	<sstream>
+
+1744604645 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1744604645 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+

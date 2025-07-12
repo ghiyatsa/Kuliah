@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1744670539 source:e:\grafika komputer\kuisgrafika\kuisgrafika3\main.cpp
+	<GL/freeglut.h>
+
+1744604644 c:\program files\codeblocks\mingw\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1744604645 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1744604644 c:\program files\codeblocks\mingw\include\gl\freeglut_ext.h
+	<stdarg.h>
+
